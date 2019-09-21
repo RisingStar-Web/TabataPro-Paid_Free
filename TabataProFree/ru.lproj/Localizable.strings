@@ -1,0 +1,19 @@
+/* 
+  Strings.localizable.strings
+  TabataPro
+
+  Created by Роман Кабиров on 12.06.2018.
+  Copyright © 2018 Logical Mind. All rights reserved.
+*/
+
+"sec" = "сек";
+"min" = "мин";
+"Double-tap to cancel" = "Коснитесь дважды для отмены";
+"Cycle" = "Раунд";
+"Tabatas" = "Табата-цикл";
+"Prepare" = "Подготовка";
+"Work" = "Работа";
+"Rest" = "Отдых";
+
+"Stop" = "Стоп";
+"Start" = "Старт";

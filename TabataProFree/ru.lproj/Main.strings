@@ -1,0 +1,50 @@
+
+/* Class = "UILabel"; text = "Rounds count"; ObjectID = "0Q2-ti-f7g"; */
+"0Q2-ti-f7g.text" = "Количество раундов";
+
+/* Class = "UILabel"; text = "Exercise work time"; ObjectID = "5xQ-1p-QR2"; */
+"5xQ-1p-QR2.text" = "Время выполнения упражнения";
+
+/* Class = "UITableViewSection"; headerTitle = "Workout"; ObjectID = "7Sm-Ax-ceQ"; */
+"7Sm-Ax-ceQ.headerTitle" = "Тренировка";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "C0S-o1-irG"; */
+"C0S-o1-irG.text" = "2";
+
+/* Class = "UILabel"; text = "15"; ObjectID = "Esd-7b-KbB"; */
+"Esd-7b-KbB.text" = "15";
+
+/* Class = "UILabel"; text = "Delay before timer start"; ObjectID = "MSF-h9-FmS"; */
+"MSF-h9-FmS.text" = "Пауза до начала работы";
+
+/* Class = "UILabel"; text = "Rest time, sec"; ObjectID = "VRk-HL-4vV"; */
+"VRk-HL-4vV.text" = "Время отдыха, сек";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "XxG-tX-bS0"; */
+"XxG-tX-bS0.text" = "30";
+
+/* Class = "UILabel"; text = "Prepare time, sec"; ObjectID = "bUj-H3-Yag"; */
+"bUj-H3-Yag.text" = "Время подготовки, сек";
+
+/* Class = "UILabel"; text = "Work time, sec"; ObjectID = "cCM-Mw-cBi"; */
+"cCM-Mw-cBi.text" = "Время работы, сек";
+
+/* Class = "UILabel"; text = "Tabata cycles count"; ObjectID = "f8o-5v-5ms"; */
+"f8o-5v-5ms.text" = "Количество Табата-циклов";
+
+/* Class = "UILabel"; text = "40"; ObjectID = "lX8-HN-dB0"; */
+"lX8-HN-dB0.text" = "40";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "lgM-EJ-WDP"; */
+"lgM-EJ-WDP.normalTitle" = "Старт";
+
+/* Class = "UILabel"; text = "8"; ObjectID = "p8q-sH-74m"; */
+"p8q-sH-74m.text" = "8";
+
+/* Class = "UITableViewSection"; headerTitle = "Timers"; ObjectID = "v0G-C6-i0Y"; */
+"v0G-C6-i0Y.headerTitle" = "Таймеры";
+
+/* Class = "UILabel"; text = "Rest duration between sets"; ObjectID = "zSS-sR-pXV"; */
+"zSS-sR-pXV.text" = "Длительность отдыха между раундами";
+"ffN-BZ-xfS.text" = "Раунды";
+"g1J-Pp-2JN.text" = "Циклы";
